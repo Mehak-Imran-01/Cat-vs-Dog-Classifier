@@ -17,6 +17,12 @@ The model takes **256x256 RGB images** as input and outputs the probability of t
 - **Data Preprocessing**: Images resized to 256x256 and normalized.
 
 ---
+## Dataset
+
+- **Source**: The Cat vs Dog dataset used in this project is from Kaggle:  
+  [Cat or Dog – Image Classification Dataset](https://www.kaggle.com/datasets/sunilthite/cat-or-dog-image-classification?select=Test)
+
+---
 
 ## Result
 - This model achieves the 92% accuracy. With data augmnetation, Hyperparameter tuning and more epochs this can be improve more.
