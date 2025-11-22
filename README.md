@@ -23,4 +23,4 @@ The model takes **256x256 RGB images** as input and outputs the probability of t
 - Also we can do the transfer learning using pretrained models.
 
 ---
-### Mehak Imran | AI Engineer
+**Mehak Imran | AI Engineer**
