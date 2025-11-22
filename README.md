@@ -19,8 +19,8 @@ The model takes **256x256 RGB images** as input and outputs the probability of t
 ---
 
 ## Result
-This model achieves the 92% accuracy. With dataaugmnetation, Hyperparameter tuning and more epochs this can be improve more.
-Also we can do the transfer learning using pretrained models.
+- This model achieves the 92% accuracy. With data augmnetation, Hyperparameter tuning and more epochs this can be improve more.
+- Also we can do the transfer learning using pretrained models.
 
 ---
-## Mehak Imran
+### Mehak Imran | AI Engineer
